@@ -13,7 +13,7 @@ public class DemoApplication {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-      return "Hello World!";
+      return "Hello Sanjana, our first spring boot application is up and running!";
     }
 
     public static void main(String[] args) {
