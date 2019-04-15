@@ -28,7 +28,7 @@ public class TodoService {
         	System.out.println("todo");
         	System.out.println(todo.getUser(todo));
             //if (todo.getUser(todo).equals(user)) {
-                filteredTodos.add("Test!");
+                filteredTodos.add("Test!!");
             //}
         }
         return filteredTodos;
